@@ -46,16 +46,16 @@ http://localhost:3000
 
 ### Login Page
 
-)<img width="959" height="501" alt="Screenshot 2026-06-12 150032" src="https://github.com/user-attachments/assets/c6bddb7d-2e60-4a9b-b2a9-a4dec2cba2b7" />
+<img width="959" height="501" alt="Screenshot 2026-06-12 150032" src="https://github.com/user-attachments/assets/c6bddb7d-2e60-4a9b-b2a9-a4dec2cba2b7" />
 
 
 ### Sign Up Page
+<img width="956" height="497" alt="Screenshot 2026-06-12 151418" src="https://github.com/user-attachments/assets/c7e53971-2757-407e-9657-3b714cd5e7e7" />
 
-(Add Screenshot)
 
 ### Add Employee Page
+<img width="959" height="457" alt="Screenshot 2026-06-12 151708" src="https://github.com/user-attachments/assets/459f0af5-8ffa-44c9-bb1c-b41ede185a70" />
 
-(Add Screenshot)
 
 ## Future Improvements
 
