@@ -46,7 +46,7 @@ http://localhost:3000
 
 ### Login Page
 
-(Add Screenshot)
+![Project Screenshot](Screenshot 2026-06-12 150032)
 
 ### Sign Up Page
 
